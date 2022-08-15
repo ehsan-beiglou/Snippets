@@ -45,14 +45,6 @@ Here is an illustration:
 └── project-c
     └── TODO.md
 ```
-.
-├── project-a
-│   ├── README.md
-│   └── TODO.md
-├── project-b
-│   └── TODO.md
-└── project-c
-    └── TODO.md
 
 Every todo markdown file starts with the `# TODO` header.
 
